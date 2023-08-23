@@ -1,0 +1,48 @@
+*   [33mcommit 293e6ba98251fadfc2f0865cdee69c2a2d73044e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 969ed35 74be641
+[31m|[m [32m|[m Author: Panuwat <Panuwat@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 23 11:04:40 2023 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'thai-lang'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 74be64131f872144103ea6bb8633064bfec067b0[m[33m ([m[1;32mthai-lang[m[33m)[m
+[31m|[m [32m|[m Author: Panuwat <Panuwat@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 23 10:48:12 2023 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Add 'Notify'in quasar.comf.js
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit dd6ef7ba7d6c1f52135fed4328881e2d7041dd68[m
+[31m|[m [32m|[m Author: Panuwat <Panuwat@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 23 10:41:49 2023 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Add 'Notify'in quasar.comfig.js
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 71b5b0d6be2ca986be23da725feeeba8551e218d[m
+[31m|[m [32m|[m Author: Panuwat <Panuwat@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 23 10:25:30 2023 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Change label to Thai language in IndexPage.vue
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 48d048f3f18eb511a598def9183ce5175f040c8f[m
+[31m|[m [32m|[m Author: Panuwat <Panuwat@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 23 10:09:23 2023 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Add script part
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 0ef205228bf52c94348b3c028024b039c7f482e0[m
+[31m|[m [32m|[m Author: Panuwat <Panuwat@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 23 10:03:31 2023 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Add template part
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 969ed3553a2ee04ee4e448c4e47a88521d28581c[m
+[32m|[m[32m/[m  Author: Panuwat <Panuwat@gmail.com>
+[32m|[m   Date:   Wed Aug 23 10:44:47 2023 +0700
+[32m|[m   
+[32m|[m       Add 'Notify'in quasar.comfig.js
+[32m|[m 
+* [33mcommit a5a956c075c6c47c75e0cb8eba9e175eb5060bca[m
+  Author: Panuwat <Panuwat@gmail.com>
+  Date:   Wed Aug 23 09:46:54 2023 +0700
+  
+      1st project-quasar
